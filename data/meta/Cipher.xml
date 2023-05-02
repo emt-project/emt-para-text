@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Über das Projekt</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+               <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+               <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>CC-BY</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            Scholarly Digital Editions sind eine revolutionäre Art, historische Texte und Dokumente
+            in einem modernen und zugänglichen Format zu präsentieren.
+            Diese Editionen verwenden digitale Technologien, um eine angereicherte und interaktive
+            Version des Originaltexts darzustellen, die es Lesern ermöglicht,
+            das Material auf neue Weise zu erkunden und zu nutzen. Sie bieten Wissenschaftlern ein
+            mächtiges Werkzeug für Forschung und Analyse sowie eine Plattform,
+            um ihre Arbeit einem breiteren Publikum zugänglich zu machen. Darüber hinaus können
+            digitale Editionen eine genauere und zuverlässigere Version eines
+            Textes bieten, indem sie fortschrittliche Techniken wie Bildverbesserung, Transkription
+            und Textanalyse einsetzen.
+            Da sich das Feld der digitalen Geisteswissenschaften weiterentwickelt, wird die
+            Entwicklung von Scholarly Digital Editions immer wichtiger und wird
+            voraussichtlich die Art und Weise revolutionieren, wie wir historische Texte und
+            Dokumente studieren und verstehen.
+         </p>
+      </body>
+   </text>
+</TEI>
+  
