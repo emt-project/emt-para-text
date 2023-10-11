@@ -100,6 +100,10 @@
                     target="https://kaiserin.hypotheses.org/1636">Kaiserliche Geheimnisse. Ein Blick
                 auf den Chiffrengebrauch in der Korrespondenz Eleonora Magdalena Theresias |
                 Kaiserin und Reich (hypotheses.org)</ref></p>
+            <p ana="image-list-flex-row">
+                <figure><graphic n="1001" url="media/chiffre_alphabet.png" rend="inline"><desc>Ein Bild, das Entwurf enthält. Automatisch generierte Beschreibung</desc></graphic></figure>
+                <figure><graphic n="1002" url="media/chiffre_special_characters.png" rend="inline"><desc>Ein Bild, das Entwurf enthält. Automatisch generierte Beschreibung</desc></graphic></figure>
+            </p>
         </body>
     </text>
 </TEI>
