@@ -102,14 +102,12 @@
             <p ana="image-list-flex-row">
                 <figure>
                     <graphic n="1001" url="media/chiffre_alphabet.png" rend="inline">
-                        <desc>Ein Bild, das Entwurf enthält. Automatisch generierte
-                            Beschreibung</desc>
+                        <desc>Alphabet zur Chiffre der Kaiserin</desc>
                     </graphic>
                 </figure>
                 <figure>
                     <graphic n="1002" url="media/chiffre_special_characters.png" rend="inline">
-                        <desc>Ein Bild, das Entwurf enthält. Automatisch generierte
-                            Beschreibung</desc>
+                        <desc>Sonderzeichen in der Chiffre der Kaiserin</desc>
                     </graphic>
                 </figure>
             </p>
