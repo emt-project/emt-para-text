@@ -29,7 +29,7 @@
    </teiHeader>
    <text>
       <body>
-         <p> </p>
+         <div>
          <p ana="image-list-flex-row">
             <figure>
                <graphic n="1001" url="data/img/eleonora_magdalena.jpg" rend="inline">
@@ -241,6 +241,7 @@
          <p style="text-align: justify;">Wagner, Franziskus (1721): Leben und Tugenden Eleonorae
             Magdalenae Theresiae, Römischen Käyserin / Von einem der Gesellschaft Jesu Priestern
             zusammen getragen, Wien: Schwendimann.</p>
+            </div>
       </body>
    </text>
 </TEI>
