@@ -152,12 +152,13 @@
                preserved. So far, annotations and content-related commentaries have been provided
                for persons, places, and institutions in only some of the letters. This is to be
                significantly expanded in the second phase of the project.
-               <figure>
-                  <graphic n="1002" url="main/data/img/eleonora_magdalena_widow_austrian_library.jpg" rend="full">
+               <figure rend="full">
+                  <graphic n="1002" url="main/data/img/eleonora_magdalena_widow_austrian_library.jpg" >
                      <desc>Eleonora Magdalena as widow, Copyright: Österreichische Nationalbibliothek
                      </desc>
                   </graphic>
-               </figure></p>
+               </figure>
+            </p>
          </div>
       </body>
    </text>
