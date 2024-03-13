@@ -59,8 +59,7 @@
             Kommunikation festhalten? Welche Umstände beförderten das Potential einer dynastischen
             Verbindung, welche verhinderten seine Umsetzung? 
             Ausgangspunkt für die Beantwortung
-            dieser und ähnlicher Fragen ist ein bislang kaum bekannter und nicht genutzter <ref
-               target="ueberlieferung.xml">Quellenbestand</ref>: die eigenhändige Korrespondenz
+            dieser und ähnlicher Fragen ist ein bislang kaum bekannter und nicht genutzter <ref target="ueberlieferung.xml">Quellenbestand</ref>: die eigenhändige Korrespondenz
             zwischen Kaiserin Eleonora Magdalena von Pfalz-Neuburg und ihrem Vater Philipp Wilhelm
             (seit 1685 Kurfürst von der Pfalz) bzw. ihrem ältesten Bruder Johann Wilhelm von
             Pfalz-Neuburg (seit 1690 Kurfürst). Die Korrespondenz erstreckt sich über die Jahre 1677
@@ -69,11 +68,8 @@
             seltene Gelegenheit, dem dynastischen Agieren einer hochrangigen Fürstin zwischen ihren
             Familien intensiv nachzugehen. </p>
             <p>Die Ermittlung dieser Überlieferung, die sich
-            hauptsächlich in den Beständen des <ref
-               target="https://www.gda.bayern.de/hauptstaatsarchiv/">Bayerischen Hauptstaatsarchives
-               München</ref> befindet, war Ausgangspunkt für die Beantragung eines <ref
-               target="https://www.oeaw.ac.at/ihb/forschungsbereiche/geschichte-der-habsburgermonarchie/forschung/familiensache"
-               >Forschungsprojektes</ref>. Dieses wird von September 2021 bis Ende 2024 gefördert
+            hauptsächlich in den Beständen des <ref target="https://www.gda.bayern.de/hauptstaatsarchiv/">Bayerischen Hauptstaatsarchives
+               München</ref> befindet, war Ausgangspunkt für die Beantragung eines <ref target="https://www.oeaw.ac.at/ihb/forschungsbereiche/geschichte-der-habsburgermonarchie/forschung/familiensache">Forschungsprojektes</ref>. Dieses wird von September 2021 bis Ende 2024 gefördert
                durch den <ref target="https://www.fwf.ac.at/">Fonds zur Förderung der wissenschaftlichen Forschung</ref> und ist angesiedelt am
                <ref target="https://www.oeaw.ac.at/ihb">Institut für die Erforschung der
                Habsburgermonarchie und des Balkanraumes der Österreichischen Akademie der
@@ -93,13 +89,13 @@
             denen der Briefwechsel überliefert ist. Eine vertiefte Erschließung durch die
             Identifizierung von Orten, Personen und Institutionen, die Erwähnung finden, sowie die
             inhaltliche Kommentierung konnte bislang nur einen Teil der Briefe geleistet werden. Sie
-            soll in einer zweiten Projektphase deutlich ausgebaut werden. </p>
-         <p><figure>
-            <graphic n="1002" url="main/data/img/eleonora_magdalena_widow_austrian_library.jpg" rend="end">
-               <desc>Eleonora Magdalena als Witwe, Copyright: Österreichische Nationalbibliothek
+            soll in einer zweiten Projektphase deutlich ausgebaut werden. <figure rend="full">
+               <graphic n="1002" url="main/data/img/eleonora_magdalena_widow_austrian_library.jpg" >
+                  <desc>Eleonora Magdalena als Witwe, Copyright: Österreichische Nationalbibliothek
                   </desc>
-            </graphic>
-         </figure></p>
+               </graphic>
+            </figure></p>
+         
          </div>
          <div xml:lang="en">
             <p>Dynasties as specific historical family formation were, to a large extent, social
@@ -155,13 +151,13 @@
                found to a limited extent in the fascicles in which the correspondences are
                preserved. So far, annotations and content-related commentaries have been provided
                for persons, places, and institutions in only some of the letters. This is to be
-               significantly expanded in the second phase of the project.</p>
-            <p><figure>
-               <graphic n="1002" url="main/data/img/eleonora_magdalena_widow_austrian library.jpg" rend="end">
-                  <desc>Eleonora Magdalena as widow, Copyright: Österreichische Nationalbibliothek
-                  </desc>
-               </graphic>
-            </figure></p>
+               significantly expanded in the second phase of the project.
+               <figure>
+                  <graphic n="1002" url="main/data/img/eleonora_magdalena_widow_austrian_library.jpg" rend="full">
+                     <desc>Eleonora Magdalena as widow, Copyright: Österreichische Nationalbibliothek
+                     </desc>
+                  </graphic>
+               </figure></p>
          </div>
       </body>
    </text>
