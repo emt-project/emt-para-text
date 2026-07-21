@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:lang="de">Publikationen</title>
+                <title type="main" xml:lang="en">Publications</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der
+                    Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg
+                    (1655-1720)</title>
+                <title type="sub" xml:lang="en">Family matters. Female dynastic agency in the
+                    correspondence of Empress Eleonora (1655-1720)</title>
+                <author>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+                    <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+                    <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                    <name ref="https://orcid.org/0009-0000-4293-6606">Dorota Vargová</name>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES
+                    BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2026">2026</date>
+                <availability>
+                    <licence>
+                        <p>CC-BY</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="de">
+                <div>
+                    <head>Publikationen</head>
+                    <p>Text</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
