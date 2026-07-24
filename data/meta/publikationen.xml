@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:lang="de">Publikationen</title>
+                <title type="main" xml:lang="en">Publications</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der
+                    Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg
+                    (1655-1720)</title>
+                <title type="sub" xml:lang="en">Family matters. Female dynastic agency in the
+                    correspondence of Empress Eleonora (1655-1720)</title>
+                <author>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+                    <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+                    <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                    <name ref="https://orcid.org/0009-0000-4293-6606">Dorota Vargová</name>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES
+                    BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2026">2026</date>
+                <availability>
+                    <licence>
+                        <p>CC-BY</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="de">
+                <div>
+                    <head>Wissenschafltiche Veröffentlichungen</head>
+                    <p>Keller, Katrin: "Kaiserin Eleonora Magdalena als Witwe", in: Bettina Braun, Matthias Schnettger (Hg.),
+                        Fürstliche Witwen (Mainzer Studien zur Frühen Neuzeit), Bielefeld: Transkript 2026 (im Druck);
+                        Italienisch unter: Katrin Keller, <ref target="https://www.rivistamodo.it/wp-content/uploads/2026/05/Keller.pdf">"L'Imperatrice Eleonora Maddalena nel periodo della vedovanza"</ref>, in: 
+                        MO.DO. Rivista di storia scienze umane e cultural heritage (2025-2026), 161-192</p>
+                    <p>Spitzbart, Anna: "Im Netz aus Tinte. Ein Einblick in das Korrespondenznetzwerk Kaiseirn Eleonora Magdalenas von Pfalz-Neuburg", in: Frühneuzeit-Info 36 (2025), 17-39</p>
+                    <p>Keller, Katrin: <ref target="https://elibrary.duncker-humblot.com/article/75899/familiensache">"Familiensache. Dynastische Loyalität bei Kaiserin Eleonora Magdalena“</ref>, in: Zeitschrift für historische Forschung 52 (2025), 2, 237-264</p>
+                    <p>Peper, Ines: "Fürstin und Nonne. Zum Näheverhältnis von Hof und Kloster in der Barockzeit am Beispiel der Kaiserin Eleonora Magdalena (1655–1720) und ihrer Mutter, Kurfürstin Elisabeth Amalia von Pfalz-Neuburg (1635–1707)", 
+                        in: Markus Christopher Müller (Hg.), Doing Baroque. Interdisziplinäre Zugänge zum Barock als Praxis (Das achtzehnte Jahrhundert und Österreich 40), Wien: Böhlau 2025, 143-168</p>
+                    <p>Peper, Ines and Spitzbart, Anna: <ref target="http://histrhen.landesgeschichte.eu/?s=Peper">"Zur Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655–1720): Ein neues Forschungsprojekt"</ref>. HistRhen-Blog (2024)</p>
+                    <p>Keller, Katrin: "Noch eine Eleonora: Eleonora Gonzaga-Nevers als Kaiserin-Witwe und ihre Schwiegertochter Eleonora Magdalena (1677 bis 1686)", 
+                        in: Katrin Keller, Matthias Schnettger (Hg.), Transalpine Transferprozesse im 17. Jahrhundert: Die Kaiserinnen Eleonora Gonzaga und Eleonora Gonzaga-Nevers in ihrem Umfeld (Mainzer Studien zur Frühen Neuzeit 4), Bielefeld: Transkript 2024, 83-98</p>
+                    <p>Keller, Katrin: <ref target="https://www.routledge.com/Twenty-Five-Women-Who-Shaped-the-Early-Modern-Holy-Roman-Empire/Keller/p/book/9781032181059">"Twenty-Five Women Who Shaped the Early Modern Holy Roman Empire"</ref>, Abingdon and New York: Routledge 2024.</p>
+                    <p>Keller, Katrin: <ref target="https://doi.org/10.1017/S0008938922000024">"Hidden Figures: The Holy Roman Empire as a ‘Realm of Ladies’"</ref>, in: Central European History 55 (2022), 339-354</p>
+                    
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
