@@ -35,22 +35,227 @@
     <text>
         <body>
             <div xml:lang="de">
-                <div>
                     <head>Wissenschafltiche Veröffentlichungen</head>
-                    <p>Keller, Katrin: "Kaiserin Eleonora Magdalena als Witwe", in: Bettina Braun, Matthias Schnettger (Hg.),
-                        Fürstliche Witwen (Mainzer Studien zur Frühen Neuzeit), Bielefeld: Transkript 2026 (im Druck);
-                        Italienisch unter: Katrin Keller, <ref target="https://www.rivistamodo.it/wp-content/uploads/2026/05/Keller.pdf">"L'Imperatrice Eleonora Maddalena nel periodo della vedovanza"</ref>, in: 
-                        MO.DO. Rivista di storia scienze umane e cultural heritage (2025-2026), 161-192</p>
-                    <p>Spitzbart, Anna: "Im Netz aus Tinte. Ein Einblick in das Korrespondenznetzwerk Kaiseirn Eleonora Magdalenas von Pfalz-Neuburg", in: Frühneuzeit-Info 36 (2025), 17-39</p>
-                    <p>Keller, Katrin: <ref target="https://elibrary.duncker-humblot.com/article/75899/familiensache">"Familiensache. Dynastische Loyalität bei Kaiserin Eleonora Magdalena“</ref>, in: Zeitschrift für historische Forschung 52 (2025), 2, 237-264</p>
-                    <p>Peper, Ines: "Fürstin und Nonne. Zum Näheverhältnis von Hof und Kloster in der Barockzeit am Beispiel der Kaiserin Eleonora Magdalena (1655–1720) und ihrer Mutter, Kurfürstin Elisabeth Amalia von Pfalz-Neuburg (1635–1707)", 
-                        in: Markus Christopher Müller (Hg.), Doing Baroque. Interdisziplinäre Zugänge zum Barock als Praxis (Das achtzehnte Jahrhundert und Österreich 40), Wien: Böhlau 2025, 143-168</p>
-                    <p>Peper, Ines and Spitzbart, Anna: <ref target="http://histrhen.landesgeschichte.eu/?s=Peper">"Zur Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655–1720): Ein neues Forschungsprojekt"</ref>. HistRhen-Blog (2024)</p>
-                    <p>Keller, Katrin: "Noch eine Eleonora: Eleonora Gonzaga-Nevers als Kaiserin-Witwe und ihre Schwiegertochter Eleonora Magdalena (1677 bis 1686)", 
-                        in: Katrin Keller, Matthias Schnettger (Hg.), Transalpine Transferprozesse im 17. Jahrhundert: Die Kaiserinnen Eleonora Gonzaga und Eleonora Gonzaga-Nevers in ihrem Umfeld (Mainzer Studien zur Frühen Neuzeit 4), Bielefeld: Transkript 2024, 83-98</p>
-                    <p>Keller, Katrin: <ref target="https://doi.org/10.1017/S0008938922000024">"Hidden Figures: The Holy Roman Empire as a ‘Realm of Ladies’"</ref>, in: Central European History 55 (2022), 339-354</p>
-                    
-                </div>
+                      <listBibl>
+                <biblStruct type="book" xml:id="Braun2026"
+                    corresp="http://zotero.org/groups/6627786/items/4QZAHTAM">
+                    <monogr>
+                        <title level="m">Fürstliche Witwen</title>
+                        <editor><forename>Bettina</forename><surname>Braun</surname></editor>
+                        <editor><forename>Matthias</forename><surname>Schnettger</surname></editor>
+                        <imprint>
+                            <pubPlace>Bielefeld</pubPlace>
+                            <publisher>Transkript</publisher>
+                            <date>2026</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Mainzer Studien zur Frühen Neuzeit</title></series>
+                </biblStruct>
+                <biblStruct type="journalArticle" xml:id="Keller"
+                    corresp="http://zotero.org/groups/6627786/items/DSCEWZFN">
+                    <analytic>
+                        <title level="a">L'Imperatrice Eleonora Maddalena nel periodo della
+                            vedovanza</title>
+                        <author><forename>Katrin</forename><surname>Keller</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="j">MO.DO. Rivista di storia scienze umane e cultural
+                            heritage</title>
+                        <imprint>
+                            <biblScope unit="issue">2025-2026</biblScope>
+                            <biblScope unit="page">161-192</biblScope>
+                            <date/>
+                            <note type="url"
+                                >https://www.rivistamodo.it/wp-content/uploads/2026/05/Keller.pdf</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="journalArticle" xml:id="Keller2022a"
+                    corresp="http://zotero.org/groups/6627786/items/I948VJSE">
+                    <analytic>
+                        <title level="a">Hidden Figures: The Holy Roman Empire as a ‘Realm of
+                            Ladies’</title>
+                        <author><forename>Katrin</forename><surname>Keller</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Central European History</title>
+                        <imprint>
+                            <biblScope unit="volume">55</biblScope>
+                            <biblScope unit="page">339-354</biblScope>
+                            <date>2022</date>
+                            <note type="url"
+                                >https://www.cambridge.org/core/journals/central-european-history/article/hidden-figures-the-holy-roman-empire-as-a-realm-of-ladies/6B6E8CEFB7F637498858D8F233DEC191</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="journalArticle" xml:id="Keller2025"
+                    corresp="http://zotero.org/groups/6627786/items/4DNBGUUE">
+                    <analytic>
+                        <title level="a">Familiensache: Dynastische Loyalität bei Kaiserin Eleonora
+                            Magdalena</title>
+                        <author><forename>Katrin</forename><surname>Keller</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Zeitschrift für historische Forschung</title>
+                        <imprint>
+                            <biblScope unit="volume">52</biblScope>
+                            <biblScope unit="issue">2</biblScope>
+                            <biblScope unit="page">237-264</biblScope>
+                            <date>2025</date>
+                            <note type="url"
+                                >https://elibrary.duncker-humblot.com/article/75899/familiensache</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="webpage" xml:id="Keller2022b"
+                    corresp="http://zotero.org/groups/6627786/items/PRMGE6BA">
+                    <analytic>
+                        <title level="a">Kaiserin und Reich</title>
+                        <author><forename>Katrin</forename><surname>Keller</surname></author>
+                        <author><forename>Ines</forename><surname>Peper</surname></author>
+                        <author><forename>Anna</forename><surname>Spitzbart</surname></author>
+                        <author><forename>Dorota</forename><surname>Vargová</surname></author>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date>2022</date>
+                            <note type="url">https://kaiserin.hypotheses.org/</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Keller2024a"
+                    corresp="http://zotero.org/groups/6627786/items/DW5UCMX3">
+                    <monogr>
+                        <title level="m">Transalpine Transferprozesse im 17. Jahrhundert: Die
+                            Kaiserinnen Eleonora Gonzaga und Eleonora Gonzaga-Nevers in ihrem
+                            Umfeld</title>
+                        <editor><forename>Katrin</forename><surname>Keller</surname></editor>
+                        <editor><forename>Matthias</forename><surname>Schnettger</surname></editor>
+                        <imprint>
+                            <pubPlace>Bielefeld</pubPlace>
+                            <biblScope unit="volume">4</biblScope>
+                            <publisher>Transkript</publisher>
+                            <date>2024</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Mainzer Studien zur Frühen Neuzeit</title></series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Müller2025"
+                    corresp="http://zotero.org/groups/6627786/items/RYMJLPTR">
+                    <monogr>
+                        <title level="m">Doing Baroque: Interdisziplinäre Zugänge zum Barock als
+                            Praxis</title>
+                        <editor><forename>Markus
+                            Christopher</forename><surname>Müller</surname></editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">40</biblScope>
+                            <publisher>Böhlau</publisher>
+                            <date>2025</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Das achtzehnte Jahrhundert und
+                        Österreich</title></series>
+                </biblStruct>
+                <biblStruct type="webpage" xml:id="Peper2024"
+                    corresp="http://zotero.org/groups/6627786/items/TB2YHACA">
+                    <analytic>
+                        <title level="a">Zur Korrespondenz von Kaiserin Eleonora Magdalena von
+                            Pfalz-Neuburg (1655–1720): Ein neues Forschungsprojekt</title>
+                        <author><forename>Ines</forename><surname>Peper</surname></author>
+                        <author><forename>Anna</forename><surname>Spitzbart</surname></author>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date>2024</date>
+                            <note type="url">https://histrhen.landesgeschichte.eu/?s=Peper</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="journalArticle" xml:id="Spitzbart2025"
+                    corresp="http://zotero.org/groups/6627786/items/HSG3IJS2">
+                    <analytic>
+                        <title level="a">Im Netz aus Tinte: Ein Einblick in das
+                            Korrespondenznetzwerk Kaiseirn Eleonora Magdalenas von
+                            Pfalz-Neuburg</title>
+                        <author><forename>Anna</forename><surname>Spitzbart</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Frühneuzeit-Info</title>
+                        <imprint>
+                            <biblScope unit="volume">36</biblScope>
+                            <biblScope unit="page">17-39</biblScope>
+                            <date>2025</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="bookSection" xml:id="Keller2024b"
+                    corresp="http://zotero.org/groups/6627786/items/Z4PFM2YH">
+                    <analytic>
+                        <title level="a">Noch eine Eleonora: Eleonora Gonzaga-Nevers als
+                            Kaiserin-Witwe und ihre Schwiegertochter Eleonora Magdalena (1677 bis
+                            1686)</title>
+                        <author><forename>Katrin</forename><surname>Keller</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Transalpine Transferprozesse im 17. Jahrhundert: Die
+                            Kaiserinnen Eleonora Gonzaga und Eleonora Gonzaga-Nevers in ihrem
+                            Umfeld</title>
+                        <editor><forename>Katrin</forename><surname>Keller</surname></editor>
+                        <editor><forename>Matthias</forename><surname>Schnettger</surname></editor>
+                        <imprint>
+                            <pubPlace>Bielefeld</pubPlace>
+                            <biblScope unit="volume">4</biblScope>
+                            <biblScope unit="page">83-98</biblScope>
+                            <publisher>Transkript</publisher>
+                            <date>2024</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Mainzer Studien zur Frühen Neuzeit</title></series>
+                </biblStruct>
+                <biblStruct type="bookSection" xml:id="Keller2026"
+                    corresp="http://zotero.org/groups/6627786/items/CSJFLKYM">
+                    <analytic>
+                        <title level="a">Kaiserin Eleonora Magdalena als Witwe</title>
+                        <author><forename>Katrin</forename><surname>Keller</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Fürstliche Witwen</title>
+                        <editor><forename>Bettina</forename><surname>Braun</surname></editor>
+                        <editor><forename>Matthias</forename><surname>Schnettger</surname></editor>
+                        <imprint>
+                            <pubPlace>Bielefeld</pubPlace>
+                            <publisher>Transkript</publisher>
+                            <date>2026</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Mainzer Studien zur Frühen Neuzeit</title></series>
+                </biblStruct>
+                <biblStruct type="bookSection" xml:id="Peper2025"
+                    corresp="http://zotero.org/groups/6627786/items/C86AYRR6">
+                    <analytic>
+                        <title level="a">Fürstin und Nonne: Zum Näheverhältnis von Hof und Kloster
+                            in der Barockzeit am Beispiel der Kaiserin Eleonora Magdalena
+                            (1655-1720) und ihrer Mutter, Kurfürstin Elisabeth Amalia von
+                            Pfalz-Neuburg (1635-1707)</title>
+                        <author><forename>Ines</forename><surname>Peper</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Doing Baroque: Interdisziplinäre Zugänge zum Barock als
+                            Praxis</title>
+                        <editor><forename>Markus
+                            Christopher</forename><surname>Müller</surname></editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">40</biblScope>
+                            <biblScope unit="page">143-168</biblScope>
+                            <publisher>Böhlau</publisher>
+                            <date>2025</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Das achtzehnte Jahrhundert und Österreich</title></series>
+                </biblStruct>
+            </listBibl>
             </div>
         </body>
     </text>
