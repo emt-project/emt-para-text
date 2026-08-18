@@ -37,9 +37,38 @@
             <div xml:lang="de">
                 <div>
                     <head>Benutzung der Edition</head>
-                    <p>Text</p>
+                    <table rows="7" cols="2">
+                        <row role="label">
+                            <cell>Themen</cell>
+                            <cell>Text</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Zugriff auf die Briefe</cell>
+                            <cell role="data">Der Zugriff auf die edierten Briefe ist entweder über das <ref target="toc.html">Briefverzeichnis</ref> oder den <ref target="calendar.html">Kalender</ref> möglich.</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Kalender</cell>
+                            <cell role="data"></cell>
+                        </row>
+                         <row>
+                            <cell role="label">Volltext-Ansicht der Briefe</cell>
+                            <cell role="data"></cell>
+                        </row>
+                         <row>
+                            <cell role="label">Beilagen</cell>
+                            <cell role="data"></cell>
+                        </row>
+                         <row>
+                            <cell role="label">Textkritisches Markup</cell>
+                            <cell role="data"></cell>
+                        </row>
+                         <row>
+                            <cell role="label">Suche-Tools</cell>
+                            <cell role="data"></cell>
+                        </row>
+                    </table>
                 </div>
-            </div>
-        </body>
-    </text>
-</TEI>
+                </div>
+            </body>
+        </text>
+    </TEI>
