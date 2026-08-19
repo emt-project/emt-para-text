@@ -96,7 +96,7 @@
                         </row>
                         <row>
                             <cell role="label">Zugriff auf die Edition durch externe Datenbanken</cell>
-                            <cell role="data"><ref target="https://correspsearch.net/de/suche.html?s=http://d-nb.info/gnd/101026641&x=1&w=0">Correspsearch</ref></cell>
+                            <cell role="data"><ref target="https://correspsearch.net/de/suche.html?s=http://d-nb.info/gnd/101026641">Correspsearch</ref></cell>
                             <cell role="data"><ref target="https://arche.acdh.oeaw.ac.at/browser/metadata/1441225">ARCHE</ref></cell>
                         </row>
                     </table>
