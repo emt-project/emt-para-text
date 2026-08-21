@@ -55,53 +55,63 @@
                                 Sie sind immer mit dem Brief verlinkt, in dem sie Erwähnung finden. 
                                 Zusätzlich werden hier auch gegenseitige <idno>Besuche</idno> der BriefabsenderInnen dargestellt, die größere Lücken im Briefwechsel begründen.</cell>
                         </row>
-                         <row>
+                        <row>
                             <cell role="label">Volltext-Ansicht der Briefe</cell>
-                             <cell role="data">In der Edition sind ausschließlich Briefe von Kaiserin <ref target="eleonora.xml">Eleonora Magdalena von Pfalz-Neuburg</ref>
+                            <cell role="data">In der Edition sind ausschließlich Briefe von Kaiserin <ref target="eleonora.xml">Eleonora Magdalena von Pfalz-Neuburg</ref>
                                  an ihren Vater bzw. Bruder, <ref target="philippwilhelm.xml">Philipp Wilhelm</ref> und <ref target="johannwilhelm.xml">Johann Wilhelm von Pfalz-Neuburg</ref>, als Volltext-Transkription verfügbar. 
                                  Für diese Briefe wurden Personen-, Orts- und Institutionenregister erstellt (siehe <ref target="projekt.xml">Über die digitale Edition</ref>). 
                                  Die Briefe ihres Vaters und Bruders an sie sind mit <idno>Regesten</idno> erschlossen, die ebenfalls in die Register aufgenommen wurden. 
                                  Eine <idno>Ausnahme</idno> sind die <idno>Briefe des Bruders</idno> der Kaiserin, Johann Wilhelm von Pfalz-Neuburg, die <idno>Chiffre</idno> enthalten. 
                                  Zur besseren Orientierung der BenutzerInnen der Edition wurden diese zur Gänze transkribiert, wobei die dazugehörigen Regesten inklusive Verlinkung zu Personen, Orten und Institutionen in der Briefansicht beibehalten wurden.
-                             </cell>
+                            </cell>
                         </row>
-                         <row>
+                        <row>
                             <cell role="label">Beilagen</cell>
-                             <cell role="data">Die <ref target="ueberlieferung.xml">Korrespondenz von Kaiserin Eleonora Magdalena</ref> enthält zahlreiche Beilagen, die ebenfalls in die Edition aufgenommen wurden.
+                            <cell role="data">Die <ref target="ueberlieferung.xml">Korrespondenz von Kaiserin Eleonora Magdalena</ref> enthält zahlreiche Beilagen, die ebenfalls in die Edition aufgenommen wurden.
                                  Die Beilagen liegen nicht in Volltext-Transkription vor, sind aber durch Metadaten in der Edition unter den dazugehörigen Briefen ausgewiesen. 
                                  Siehe dazu auch das <ref target="https://kaiserin-eleonora.oeaw.ac.at/attachments.html">Beilagenverzeichnis</ref>. 
                                  Jene wenige Beilagen, für die kein konkreter inhaltlicher Zusammenhang mit der Korrespondenz der Kaiserin hergestellt werden konnte, wurden nicht in die Edition aufgenommen.</cell>
                         </row>
-                         <row>
+                        <row>
                             <cell role="label">Textkritisches Markup</cell>
-                             <cell role="data">In der Briefansicht ist ein bewegliches Markup mit der textkritischen Legende rechts unten verfügbar.
-                                 <graphic n="1001" url="bewegliches_markup_screenshot.jpg"/></cell>
+                            <cell role="data">In der Briefansicht ist ein bewegliches Markup mit der textkritischen Legende rechts unten verfügbar.
+                                <graphic n="1001" url="bewegliches_markup_screenshot.jpg"/>
+                            </cell>
                         </row>
-                         <row>
+                        <row>
                             <cell role="label">Suche-Tools</cell>
-                             <cell role="data"><ref target="https://kaiserin-eleonora.oeaw.ac.at/search.html">Volltext-Suche</ref></cell> 
-                             <cell role="data"><ref target="https://kaiserin-eleonora.oeaw.ac.at/listperson.html">Personenregister</ref></cell>
-                             <cell role="data"><ref target="https://kaiserin-eleonora.oeaw.ac.at/listplace.html">Ortsregister mit Karte</ref></cell>
-                             <cell role="data"><ref target="https://kaiserin-eleonora.oeaw.ac.at/listorg.html">Institutionenregister</ref></cell>
-                             <cell role="data"><ref target="https://kaiserin-eleonora.oeaw.ac.at/attachments.html">Beilagenverzeichnis</ref></cell>
+                            <cell role="data">
+                            <listRef>
+                                <ref target="https://kaiserin-eleonora.oeaw.ac.at/search.html">Volltext-Suche</ref>
+                                <ref target="https://kaiserin-eleonora.oeaw.ac.at/listperson.html">Personenregister</ref>
+                                <ref target="https://kaiserin-eleonora.oeaw.ac.at/listplace.html">Ortsregister mit Karte</ref>
+                                <ref target="https://kaiserin-eleonora.oeaw.ac.at/listorg.html">Institutionenregister</ref>
+                                <ref target="https://kaiserin-eleonora.oeaw.ac.at/attachments.html">Beilagenverzeichnis</ref>
+                            </listRef>
+                            </cell>
                         </row>
                         <row>
                             <cell role="label">PDF</cell>
                             <cell role="data">
                                 In der Edition ist ein Download der Briefe im PDF-Format möglich.
-                                <idno>Einzelne Briefe</idno> – Den ausgewählten Brief öffnen und das PDF-Icon unter der Überschrift auswählen:
+                                <hi rend="bold">Einzelne Briefe</hi> – Den ausgewählten Brief öffnen und das PDF-Icon unter der Überschrift auswählen:
                                 <graphic n="1001" url="pdf_icon_1.jpg"/>
-                                <idno>Ein ganzes Jahr</idno> – Den Kalender öffnen und das PDF-Icon unterhalb des ausgewählten Jahres auswählen:
-                                <graphic n="1001" url="pdf_icon_2.jpg"/></cell>
+                                <hi rend="bold">Ein ganzes Jahr</hi> – Den Kalender öffnen und das PDF-Icon unterhalb des ausgewählten Jahres auswählen:
+                                <graphic n="1001" url="pdf_icon_2.jpg"/>
+                            </cell>
                         </row>
                         <row>
                             <cell role="label">Zugriff auf die Edition durch externe Datenbanken</cell>
-                            <cell role="data"><ref target="https://correspsearch.net/de/suche.html?s=http://d-nb.info/gnd/101026641">Correspsearch</ref></cell>
-                            <cell role="data"><ref target="https://arche.acdh.oeaw.ac.at/browser/metadata/1441225">ARCHE</ref></cell>
+                            <cell role="data">
+                                <listRef>
+                                    <ref target="https://correspsearch.net/de/suche.html?s=http://d-nb.info/gnd/101026641">Correspsearch</ref>
+                                    <ref target="https://arche.acdh.oeaw.ac.at/browser/metadata/1441225">ARCHE</ref>
+                                </listRef>
+                            </cell>
                         </row>
                     </table>
                 </div>
-                </div>
-            </body>
-        </text>
-    </TEI>
+            </div>
+        </body>
+    </text>
+</TEI>
