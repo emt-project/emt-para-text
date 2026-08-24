@@ -72,13 +72,14 @@
                             <cell role="data">
                                  <p>Die <ref target="ueberlieferung.xml">Korrespondenz von Kaiserin Eleonora Magdalena</ref> enthält zahlreiche Beilagen, die ebenfalls in die Edition aufgenommen wurden.</p>
                                  <p>Die Beilagen liegen nicht in Volltext-Transkription vor, sind aber durch Metadaten in der Edition unter den dazugehörigen Briefen ausgewiesen.</p> 
-                                 Siehe dazu auch das <ref target="https://kaiserin-eleonora.oeaw.ac.at/attachments.html">Beilagenverzeichnis</ref>. 
-                                 Jene wenige Beilagen, für die kein konkreter inhaltlicher Zusammenhang mit der Korrespondenz der Kaiserin hergestellt werden konnte, wurden nicht in die Edition aufgenommen.</cell>
+                                 <p>Siehe dazu auch das <ref target="https://kaiserin-eleonora.oeaw.ac.at/attachments.html">Beilagenverzeichnis</ref>. </p>
+                                 <p>Jene wenige Beilagen, für die kein konkreter inhaltlicher Zusammenhang mit der Korrespondenz der Kaiserin hergestellt werden konnte, wurden nicht in die Edition aufgenommen.</p></cell>
                         </row>
                         <row>
                             <cell role="label">Textkritisches Markup</cell>
-                            <cell role="data">In der Briefansicht ist ein bewegliches Markup mit der textkritischen Legende rechts unten verfügbar.
-                                <graphic n="1001" url="bewegliches_markup_screenshot.jpg"/>
+                            <cell role="data">
+                                <p>In der Briefansicht ist ein bewegliches Markup mit der textkritischen Legende rechts unten verfügbar.
+                                <graphic n="1001" url="bewegliches_markup_screenshot.jpg"/></p>
                             </cell>
                         </row>
                         <row>
@@ -96,9 +97,9 @@
                         <row>
                             <cell role="label">PDF</cell>
                             <cell role="data">
-                                In der Edition ist ein Download der Briefe im PDF-Format möglich.
-                                <hi rend="bold">Einzelne Briefe</hi> – Den ausgewählten Brief öffnen und das PDF-Icon unter der Überschrift auswählen
-                                <hi rend="bold">Ein ganzes Jahr</hi> – Den Kalender öffnen und das PDF-Icon unterhalb des ausgewählten Jahres auswählen
+                                <p>In der Edition ist ein Download der Briefe im PDF-Format möglich.</p>
+                                <p><hi rend="bold">Einzelne Briefe</hi> – Den ausgewählten Brief öffnen und das PDF-Icon unter der Überschrift auswählen</p>
+                                <p><hi rend="bold">Ein ganzes Jahr</hi> – Den Kalender öffnen und das PDF-Icon unterhalb des ausgewählten Jahres auswählen</p>
                             </cell>
                         </row>
                         <row>
