@@ -51,9 +51,9 @@
                             <cell role="data">
                                 <p>Über den <ref target="calendar.html">Kalender</ref> kann auf die edierten Briefe in der jeweiligen Jahresübersicht zugegriffen werden. </p>
                                <p>In der Kalenderansicht werden die Briefe nach <hi rend="bold">AbsenderIn</hi> farblich unterschieden.</p> 
-                                <p>Zusätzlich werden auch <hi rend="bold">"erwähnte Briefe"</hi> dargestellt.</p>
-                                <p>Das sind Briefe, die in anderen Briefen erwähnt werden, die aber physisch nicht mehr erhalten sind.</p> 
-                                <p>Sie sind immer mit dem Brief verlinkt, in dem sie Erwähnung finden.</p> 
+                                <p>Zusätzlich werden auch <hi rend="bold">"erwähnte Briefe"</hi> dargestellt. 
+                                Das sind Briefe, die in anderen Briefen erwähnt werden, die aber physisch nicht mehr erhalten sind. 
+                                Sie sind immer mit dem Brief verlinkt, in dem sie Erwähnung finden.</p> 
                                 <p>Zusätzlich werden hier auch gegenseitige <hi rend="bold">Besuche</hi> der BriefabsenderInnen dargestellt, die größere Lücken im Briefwechsel begründen.</p></cell>
                         </row>
                         <row>
