@@ -48,27 +48,30 @@
                         </row>
                         <row>
                             <cell role="label">Kalender</cell>
-                            <cell role="data">Über den <ref target="calendar.html">Kalender</ref> kann auf die edierten Briefe in der jeweiligen Jahresübersicht zugegriffen werden. 
-                                In der Kalenderansicht werden die Briefe nach <hi rend="bold">AbsenderIn</hi> farblich unterschieden. 
-                                Zusätzlich werden auch <hi rend="bold">"erwähnte Briefe"</hi> dargestellt. 
-                                Das sind Briefe, die in anderen Briefen erwähnt werden, die aber physisch nicht mehr erhalten sind. 
-                                Sie sind immer mit dem Brief verlinkt, in dem sie Erwähnung finden. 
-                                Zusätzlich werden hier auch gegenseitige <hi rend="bold">Besuche</hi> der BriefabsenderInnen dargestellt, die größere Lücken im Briefwechsel begründen.</cell>
+                            <cell role="data">
+                                <p>Über den <ref target="calendar.html">Kalender</ref> kann auf die edierten Briefe in der jeweiligen Jahresübersicht zugegriffen werden. </p>
+                               <p>In der Kalenderansicht werden die Briefe nach <hi rend="bold">AbsenderIn</hi> farblich unterschieden.</p> 
+                                <p>Zusätzlich werden auch <hi rend="bold">"erwähnte Briefe"</hi> dargestellt.</p>
+                                <p>Das sind Briefe, die in anderen Briefen erwähnt werden, die aber physisch nicht mehr erhalten sind.</p> 
+                                <p>Sie sind immer mit dem Brief verlinkt, in dem sie Erwähnung finden.</p> 
+                                <p>Zusätzlich werden hier auch gegenseitige <hi rend="bold">Besuche</hi> der BriefabsenderInnen dargestellt, die größere Lücken im Briefwechsel begründen.</p></cell>
                         </row>
                         <row>
                             <cell role="label">Volltext-Ansicht der Briefe</cell>
-                            <cell role="data">In der Edition sind ausschließlich Briefe von Kaiserin <ref target="eleonora.xml">Eleonora Magdalena von Pfalz-Neuburg</ref>
-                                 an ihren Vater bzw. Bruder, <ref target="philippwilhelm.xml">Philipp Wilhelm</ref> und <ref target="johannwilhelm.xml">Johann Wilhelm von Pfalz-Neuburg</ref>, als Volltext-Transkription verfügbar. 
-                                 Für diese Briefe wurden Personen-, Orts- und Institutionenregister erstellt (siehe <ref target="projekt.xml">Über die digitale Edition</ref>). 
-                                 Die Briefe ihres Vaters und Bruders an sie sind mit <hi rend="bold">Regesten</hi> erschlossen, die ebenfalls in die Register aufgenommen wurden. 
-                                 Eine <hi rend="bold">Ausnahme</hi> sind die <hi rend="bold">Briefe des Bruders</hi> der Kaiserin, Johann Wilhelm von Pfalz-Neuburg, die <hi rend="bold">Chiffre</hi> enthalten. 
-                                 Zur besseren Orientierung der BenutzerInnen der Edition wurden diese zur Gänze transkribiert, wobei die dazugehörigen Regesten inklusive Verlinkung zu Personen, Orten und Institutionen in der Briefansicht beibehalten wurden.
+                            <cell role="data">
+                                 <p>In der Edition sind ausschließlich Briefe von Kaiserin <ref target="eleonora.xml">Eleonora Magdalena von Pfalz-Neuburg</ref>
+                                 an ihren Vater bzw. Bruder, <ref target="philippwilhelm.xml">Philipp Wilhelm</ref> und <ref target="johannwilhelm.xml">Johann Wilhelm von Pfalz-Neuburg</ref>, als Volltext-Transkription verfügbar. </p>
+                                 <p>Für diese Briefe wurden Personen-, Orts- und Institutionenregister erstellt (siehe <ref target="projekt.xml">Über die digitale Edition</ref>).</p> 
+                                 <p>Die Briefe ihres Vaters und Bruders an sie sind mit <hi rend="bold">Regesten</hi> erschlossen, die ebenfalls in die Register aufgenommen wurden.</p>
+                                 <p>Eine <hi rend="bold">Ausnahme</hi> sind die <hi rend="bold">Briefe des Bruders</hi> der Kaiserin, Johann Wilhelm von Pfalz-Neuburg, die <hi rend="bold">Chiffre</hi> enthalten.</p> 
+                                 <p>Zur besseren Orientierung der BenutzerInnen der Edition wurden diese zur Gänze transkribiert, wobei die dazugehörigen Regesten inklusive Verlinkung zu Personen, Orten und Institutionen in der Briefansicht beibehalten wurden.</p>
                             </cell>
                         </row>
                         <row>
                             <cell role="label">Beilagen</cell>
-                            <cell role="data">Die <ref target="ueberlieferung.xml">Korrespondenz von Kaiserin Eleonora Magdalena</ref> enthält zahlreiche Beilagen, die ebenfalls in die Edition aufgenommen wurden.
-                                 Die Beilagen liegen nicht in Volltext-Transkription vor, sind aber durch Metadaten in der Edition unter den dazugehörigen Briefen ausgewiesen. 
+                            <cell role="data">
+                                 <p>Die <ref target="ueberlieferung.xml">Korrespondenz von Kaiserin Eleonora Magdalena</ref> enthält zahlreiche Beilagen, die ebenfalls in die Edition aufgenommen wurden.</p>
+                                 <p>Die Beilagen liegen nicht in Volltext-Transkription vor, sind aber durch Metadaten in der Edition unter den dazugehörigen Briefen ausgewiesen.</p> 
                                  Siehe dazu auch das <ref target="https://kaiserin-eleonora.oeaw.ac.at/attachments.html">Beilagenverzeichnis</ref>. 
                                  Jene wenige Beilagen, für die kein konkreter inhaltlicher Zusammenhang mit der Korrespondenz der Kaiserin hergestellt werden konnte, wurden nicht in die Edition aufgenommen.</cell>
                         </row>
