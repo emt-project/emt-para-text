@@ -98,8 +98,8 @@
                             <cell role="label">PDF</cell>
                             <cell role="data">
                                 <p>In der Edition ist ein Download der Briefe im PDF-Format möglich.</p>
-                                <p><hi rend="bold">Einzelne Briefe</hi> – Den ausgewählten Brief öffnen und das PDF-Icon unter der Überschrift auswählen</p>
-                                <p><hi rend="bold">Ein ganzes Jahr</hi> – Den Kalender öffnen und das PDF-Icon unterhalb des ausgewählten Jahres auswählen</p>
+                                <p><hi rend="bold">Einzelne Briefe</hi> – Den gewünschten Brief öffnen und den PDF-Download unter der Überschrift wählen</p>
+                                <p><hi rend="bold">Ein ganzes Jahr</hi> – Das gewünschte Jahr im Kalender auswählen und den PDF-Download neben der Jahreszahl wählen</p>
                             </cell>
                         </row>
                         <row>
