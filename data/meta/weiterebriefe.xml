@@ -2,8 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main" xml:lang="de">Übersicht weiterer Briefe der Kaiserin</title>
-                <title type="main" xml:lang="en">Overview of further letters</title>
+                <title type="main" xml:lang="de">Weitere überlieferte Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg</title>
+                <title type="main" xml:lang="en">Further existing correspondence of the Empress Eleonora Magdalena of Palatinate-Neuburg</title>
                 <title type="sub">Familiensache. Dynastische Handlungsspielräume in der
                     Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg
                     (1655-1720)</title>
@@ -36,7 +36,7 @@
         <body>
             <div xml:lang="de">
                 <div>
-                    <head>Übersicht weiterer Briefe der Kaiserin</head>
+                    <head>Übersicht weiterer Korrespondenzen der Kaiserin</head>
                     <table> 
                         <row role="label">
                             <cell>Archiv</cell>
@@ -48,13 +48,13 @@
                             <cell>Link zum Bestand (sofern vorhanden)</cell>
                         </row>
                         <row>
-                            <cell role="label"></cell>
-                            <cell role="data"></cell>
-                            <cell role="data"></cell>
-                            <cell role="data"></cell>
-                            <cell role="data"></cell>
-                            <cell role="data"></cell>
-                            <cell role="data"></cell>
+                            <cell role="label">Koninklijke Verzamelingen Den Haag</cell>
+                            <cell role="data">16a</cell>
+                            <cell role="data">B 32 bis b 35, b 36_001, b 36_002</cell>
+                            <cell role="data">Maria von Oranien, Königin von England und Schottland</cell>
+                            <cell role="data">6</cell>
+                            <cell role="data">1685-1690</cell>
+                            <cell role="data">https://emlo.bodleian.ox.ac.uk/w/953508</cell>
                         </row>                   
                     </table>
                 </div>
