@@ -54,8 +54,17 @@
                             <cell role="data">Maria von Oranien, Königin von England und Schottland</cell>
                             <cell role="data">6</cell>
                             <cell role="data">1685-1690</cell>
-                            <cell role="data">https://emlo.bodleian.ox.ac.uk/w/953508</cell>
+                            <cell role="data"><ref>https://emlo.bodleian.ox.ac.uk/w/953508</ref></cell>
                         </row>      
+                        <row>
+                            <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Hannover</cell>
+                            <cell role="data">Cal. Br. 11</cell>
+                            <cell role="data">Nr. 1312; Nr. 1275 </cell>
+                            <cell role="data">Georg Wilhelm von Braunschweig-Calenberg</cell>
+                            <cell role="data">2</cell>
+                            <cell role="data">1699, 1711</cell>
+                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619</ref> <ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197</ref></cell>
+                        </row>
                         <row>
                             <cell role="label">Archivio di Stato di Firenze</cell>
                             <cell role="data">Miscellanea Medicea</cell>
