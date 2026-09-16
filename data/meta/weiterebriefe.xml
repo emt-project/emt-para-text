@@ -50,12 +50,21 @@
                         <row>
                             <cell role="label">Koninklijke Verzamelingen Den Haag</cell>
                             <cell role="data">16a</cell>
-                            <cell role="data">B 32 bis b 35, b 36_001, b 36_002</cell>
+                            <cell role="data">b 32-b 35; b 36_001; b 36_002</cell>
                             <cell role="data">Maria von Oranien, Königin von England und Schottland</cell>
                             <cell role="data">6</cell>
                             <cell role="data">1685-1690</cell>
                             <cell role="data">https://emlo.bodleian.ox.ac.uk/w/953508</cell>
-                        </row>                   
+                        </row>      
+                        <row>
+                            <cell role="label">Archivio di Stato di Firenze</cell>
+                            <cell role="data">Miscellanea Medicea</cell>
+                            <cell role="data">123/9; 594/22 </cell>
+                            <cell role="data">Anna Maria de Medici, Kurfürstin von Pfalz-Neuburg</cell>
+                            <cell role="data">11</cell>
+                            <cell role="data">1707, 1714</cell>
+                            <cell role="data"></cell>
+                        </row>
                     </table>
                 </div>
             </div>
