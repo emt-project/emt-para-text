@@ -54,7 +54,7 @@
                             <cell role="data">Maria von Oranien, Königin von England und Schottland</cell>
                             <cell role="data">6</cell>
                             <cell role="data">1685-1690</cell>
-                            <cell role="data"><ref>https://emlo.bodleian.ox.ac.uk/w/953508</ref></cell>
+                            <cell role="data"><ref target="https://emlo.bodleian.ox.ac.uk/w/953508"/></cell>
                         </row>      
                         <row>
                             <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Hannover</cell>
@@ -63,7 +63,8 @@
                             <cell role="data">Georg Wilhelm von Braunschweig-Calenberg</cell>
                             <cell role="data">2</cell>
                             <cell role="data">1699, 1711</cell>
-                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619</ref> <ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197</ref></cell>
+                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619"/> 
+                                              <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197"/></cell>
                         </row>
                         <row>
                             <cell role="label">Archivio di Stato di Firenze</cell>
@@ -81,8 +82,8 @@
                             <cell role="data">Georg Wilhelm von Braunschweig-Calenberg</cell>
                             <cell role="data">2</cell>
                             <cell role="data">1699, 1711</cell>
-                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619</ref>
-                                <ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197</ref></cell>
+                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619"/>
+                                <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197"/></cell>
                         </row>
                         <row>
                             <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Hannover</cell>
@@ -91,7 +92,7 @@
                             <cell role="data">Sophie von Braunschweig-Calenberg, geb. Pfalz-Simmern</cell>
                             <cell role="data">unklar</cell>
                             <cell role="data">1705-1709</cell>
-                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v2060197</ref></cell>
+                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v2060197"/></cell>
                         </row>
                         <row>
                             <cell role="label">Landesarchiv Baden-Württemberg, Generallandesarchiv Karlsruhe</cell>
@@ -154,7 +155,7 @@
                             <cell role="data">Anna Maria von Winkelhausen, geb. Hompesch</cell>
                             <cell role="data">6</cell>
                             <cell role="data">1709-1716</cell>
-                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v2060197</ref></cell>
+                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v2060197"/></cell>
                         </row>
                         <row>
                             <cell role="label">Archivio di Stato di Parma</cell>
@@ -163,7 +164,7 @@
                             <cell role="data">Dorothea Sophie von Parma, geb. Pfalz-Neuburg</cell>
                             <cell role="data">12</cell>
                             <cell role="data">1690-1714</cell>
-                            <cell role="data"><ref>https://archiviodistatoparma.cultura.gov.it/wp-content/uploads/2025/06/18_Casa-Corte-borboniche_R_Archivio_Stato_Parma.pdf</ref></cell>
+                            <cell role="data"><ref target="https://archiviodistatoparma.cultura.gov.it/wp-content/uploads/2025/06/18_Casa-Corte-borboniche_R_Archivio_Stato_Parma.pdf"/></cell>
                         </row>
                         <row>
                             <cell role="label">Wien Bibliothek</cell>
@@ -172,7 +173,7 @@
                             <cell role="data">verschiedene</cell>
                             <cell role="data">6</cell>
                             <cell role="data">1688-1717</cell>
-                            <cell role="data"><ref>https://www.digital.wienbibliothek.at/urn/urn:nbn:at:AT-WBR-453917</ref></cell>
+                            <cell role="data"><ref target="https://www.digital.wienbibliothek.at/urn/urn:nbn:at:AT-WBR-453917"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
@@ -181,7 +182,7 @@
                             <cell role="data">verschiedene (Einzelbriefe)</cell>
                             <cell role="data">15</cell>
                             <cell role="data">1688-1718</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?id=3071401</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=3071401§"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
@@ -190,7 +191,7 @@
                             <cell role="data">Schreibenbuch Kaiserin Eleonora Magdalena</cell>
                             <cell role="data">443</cell>
                             <cell role="data">1697-1705</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?id=3071401</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=3071401"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
@@ -199,7 +200,7 @@
                             <cell role="data">Leopold I.</cell>
                             <cell role="data">18</cell>
                             <cell role="data">1676</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?id=2567501</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=2567501"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
@@ -208,7 +209,7 @@
                             <cell role="data">Leopold I. von Lothringen</cell>
                             <cell role="data">22</cell>
                             <cell role="data">1705-1719</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?ID=2271849</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?ID=2271849"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
@@ -217,7 +218,7 @@
                             <cell role="data">Karl V. von Lothringen</cell>
                             <cell role="data">20</cell>
                             <cell role="data">1678-1690</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?id=2272168</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=2272168"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
@@ -226,7 +227,7 @@
                             <cell role="data">Elisabeth Charlotte von Lothringen, geb. Orleans</cell>
                             <cell role="data">12</cell>
                             <cell role="data">1699-1705</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?id=2272164</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=2272164"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
@@ -235,7 +236,7 @@
                             <cell role="data">Karl VI.</cell>
                             <cell role="data">4</cell>
                             <cell role="data">1705, 1708</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?id=3152279</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=3152279"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Allgemeines Verwaltungsarchiv</cell>
@@ -244,7 +245,7 @@
                             <cell role="data">Ferdinand Bonaventura von Harrach</cell>
                             <cell role="data">2</cell>
                             <cell role="data">1698</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?id=1649533</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=1649533"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichisches Staatsarchiv, Allgemeines Verwaltungsarchiv</cell>
@@ -253,7 +254,7 @@
                             <cell role="data">Johanna Theresia von Harrach, geb. Lamberg</cell>
                             <cell role="data">5</cell>
                             <cell role="data">1698-1711</cell>
-                            <cell role="data"><ref>https://www.archivinformationssystem.at/detail.aspx?id=1709965</ref></cell>
+                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=1709965"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichische Nationalbibliothek</cell>
@@ -262,7 +263,7 @@
                             <cell role="data">Kardinal Leandro Colloredo</cell>
                             <cell role="data">17</cell>
                             <cell role="data">1686-1708</cell>
-                            <cell role="data"><ref>http://data.onb.ac.at/rec/AC13836925</ref></cell>
+                            <cell role="data"><ref target="http://data.onb.ac.at/rec/AC13836925"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichische Nationalbibliothek</cell>
@@ -271,7 +272,7 @@
                             <cell role="data">diverse</cell>
                             <cell role="data">10</cell>
                             <cell role="data">1683-1711</cell>
-                            <cell role="data"><ref>http://data.onb.ac.at/rec/AC14109806</ref></cell>
+                            <cell role="data"><ref target="http://data.onb.ac.at/rec/AC14109806"/></cell>
                         </row>
                         <row>
                             <cell role="label">Österreichische Nationalbibliothek</cell>
@@ -280,7 +281,7 @@
                             <cell role="data">Maximilian II. Emanuel von Bayern, J. K. Brunner</cell>
                             <cell role="data">2</cell>
                             <cell role="data">1707, 1715</cell>
-                            <cell role="data"><ref>http://data.onb.ac.at/rec/AC14101468</ref></cell>
+                            <cell role="data"><ref target="http://data.onb.ac.at/rec/AC14101468"/></cell>
                         </row>
                         <row>
                             <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</cell>
@@ -289,7 +290,7 @@
                             <cell role="data">Anton Ulrich von Braunschweig-Wolfenbüttel</cell>
                             <cell role="data">26</cell>
                             <cell role="data">1707-1713</cell>
-                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547020</ref></cell>
+                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547020"/></cell>
                         </row>
                         <row>
                             <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</cell>
@@ -298,7 +299,7 @@
                             <cell role="data">Elisabeth Christine von Braunschweig-Wolfenbüttel</cell>
                             <cell role="data">1</cell>
                             <cell role="data">1707</cell>
-                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547020</ref></cell>
+                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547020"/></cell>
                         </row>
                         <row>
                             <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</cell>
@@ -307,7 +308,7 @@
                             <cell role="data">Ludwig Rudolph von Braunschweig-Wolfenbüttel</cell>
                             <cell role="data">24</cell>
                             <cell role="data">1707-1715</cell>
-                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547019</ref></cell>
+                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547019"/></cell>
                         </row>
                         <row>
                             <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</cell>
@@ -316,7 +317,7 @@
                             <cell role="data">Christine Louise von Braunschweig-Wolfenbüttel, geb. Oettingen</cell>
                             <cell role="data">36</cell>
                             <cell role="data">1707-1718</cell>
-                            <cell role="data"><ref>https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547032</ref></cell>
+                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547032"/></cell>
                         </row>
                     </table>
                 </div>
