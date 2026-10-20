@@ -36,7 +36,7 @@
         <body>
             <div xml:lang="de">
                     <head>Wissenschafltiche Veröffentlichungen</head>
-                      <listBibl>
+                      <listBibl type="publications">
                 <biblStruct type="book" xml:id="Braun2026"
                     corresp="http://zotero.org/groups/6627786/items/4QZAHTAM">
                     <monogr>
