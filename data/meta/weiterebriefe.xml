@@ -37,289 +37,331 @@
             <div xml:lang="de">
                 <div>
                     <head>Übersicht weiterer Korrespondenzen der Kaiserin</head>
-                    <table> 
-                        <row role="label">
-                            <cell>Archiv</cell>
-                            <cell>Bestand</cell>
-                            <cell>Signatur</cell>
-                            <cell>Korrespondent:in</cell>
-                            <cell>Umfang(Stücke)</cell>
-                            <cell>Zeitraum</cell>
-                            <cell>Link zum Bestand (sofern vorhanden)</cell>
-                        </row>
-                        <row>
-                            <cell role="label">Koninklijke Verzamelingen Den Haag</cell>
-                            <cell role="data">16a</cell>
-                            <cell role="data">b 32-b 35; b 36_001; b 36_002</cell>
-                            <cell role="data">Maria von Oranien, Königin von England und Schottland</cell>
-                            <cell role="data">6</cell>
-                            <cell role="data">1685-1690</cell>
-                            <cell role="data"><ref target="https://emlo.bodleian.ox.ac.uk/w/953508"/></cell>
-                        </row>      
-                        <row>
-                            <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Hannover</cell>
-                            <cell role="data">Cal. Br. 11</cell>
-                            <cell role="data">Nr. 1312; Nr. 1275 </cell>
-                            <cell role="data">Georg Wilhelm von Braunschweig-Calenberg</cell>
-                            <cell role="data">2</cell>
-                            <cell role="data">1699, 1711</cell>
-                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619"/> 
-                                              <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Archivio di Stato di Firenze</cell>
-                            <cell role="data">Miscellanea Medicea</cell>
-                            <cell role="data">123/9; 594/22</cell>
-                            <cell role="data">Anna Maria de Medici, Kurfürstin von Pfalz-Neuburg</cell>
-                            <cell role="data">11</cell>
-                            <cell role="data">1707, 1714</cell>
-                            <cell role="data"></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Hannover</cell>
-                            <cell role="data">Cal. Br. 11</cell>
-                            <cell role="data">Nr. 1312, Nr. 1275</cell>
-                            <cell role="data">Georg Wilhelm von Braunschweig-Calenberg</cell>
-                            <cell role="data">2</cell>
-                            <cell role="data">1699, 1711</cell>
-                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619"/>
-                                <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Hannover</cell>
-                            <cell role="data">Dep. 84 A</cell>
-                            <cell role="data">Nr. 154</cell>
-                            <cell role="data">Sophie von Braunschweig-Calenberg, geb. Pfalz-Simmern</cell>
-                            <cell role="data">unklar</cell>
-                            <cell role="data">1705-1709</cell>
-                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v2060197"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Landesarchiv Baden-Württemberg, Generallandesarchiv Karlsruhe</cell>
-                            <cell role="data">Haus- und Staatsarchiv, Personalia</cell>
-                            <cell role="data"></cell>
-                            <cell role="data">Franziska Augusta von Baden-Baden, geb. Sachsen-Lauenburg</cell>
-                            <cell role="data">Streuüberlieferung, mindestens 4</cell>
-                            <cell role="data">1703-1711</cell>
-                            <cell role="data"></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Landesarchiv Baden-Württemberg, Generallandesarchiv Karlsruhe</cell>
-                            <cell role="data">Haus- und Staatsarchiv, Personalia</cell>
-                            <cell role="data"></cell>
-                            <cell role="data">Ludwig Wilhelm von Baden-Baden</cell>
-                            <cell role="data">Streuüberlieferung, mindestens 4</cell>
-                            <cell role="data">1698-1707</cell>
-                            <cell role="data"></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Archivio di Stato di Mantova</cell>
-                            <cell role="data">Archivio Alderano Cybo</cell>
-                            <cell role="data">Vol. 38 bis 41</cell>
-                            <cell role="data">Kardinal Alderano Cybo</cell>
-                            <cell role="data">36</cell>
-                            <cell role="data">1680-1700</cell>
-                            <cell role="data"></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Nationales Historisches Archiv Minsk</cell>
-                            <cell role="data">695 (Sobieski-Archiv)</cell>
-                            <cell role="data">695_1_165, 695_1_189, 695_1_209</cell>
-                            <cell role="data">Hedwig Elisabeth Sobieski, geb. Pfalz-Neuburg</cell>
-                            <cell role="data">54</cell>
-                            <cell role="data">1690-1719</cell>
-                            <cell role="data"></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Nationales Historisches Archiv Minsk</cell>
-                            <cell role="data">695 (Sobieski-Archiv)</cell>
-                            <cell role="data">695_1_189</cell>
-                            <cell role="data">Jakob Sobieski</cell>
-                            <cell role="data">78</cell>
-                            <cell role="data">1690-1703</cell>
-                            <cell role="data"></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Bayerisches Hauptstaatsarchiv München</cell>
-                            <cell role="data">Kasten_blau</cell>
-                            <cell role="data">50_3, Fasz. 4</cell>
-                            <cell role="data">Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt</cell>
-                            <cell role="data">2</cell>
-                            <cell role="data">1700-1701</cell>
-                            <cell role="data"></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Adelsarchive Nordrhein-Westfalen Münster</cell>
-                            <cell role="data">Schloss Schönstein, Akten</cell>
-                            <cell role="data">9778</cell>
-                            <cell role="data">Anna Maria von Winkelhausen, geb. Hompesch</cell>
-                            <cell role="data">6</cell>
-                            <cell role="data">1709-1716</cell>
-                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v2060197"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Archivio di Stato di Parma</cell>
-                            <cell role="data">Casa e Corte Borbonica</cell>
-                            <cell role="data">Ser. VI, busta 16, fasz. 7</cell>
-                            <cell role="data">Dorothea Sophie von Parma, geb. Pfalz-Neuburg</cell>
-                            <cell role="data">12</cell>
-                            <cell role="data">1690-1714</cell>
-                            <cell role="data"><ref target="https://archiviodistatoparma.cultura.gov.it/wp-content/uploads/2025/06/18_Casa-Corte-borboniche_R_Archivio_Stato_Parma.pdf"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Wien Bibliothek</cell>
-                            <cell role="data">Handschriften Aut F - Autograph(en) Folio</cell>
-                            <cell role="data">248635 bis 248640</cell>
-                            <cell role="data">verschiedene</cell>
-                            <cell role="data">6</cell>
-                            <cell role="data">1688-1717</cell>
-                            <cell role="data"><ref target="https://www.digital.wienbibliothek.at/urn/urn:nbn:at:AT-WBR-453917"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
-                            <cell role="data">Hausarchive, Familienkorrespondenz</cell>
-                            <cell role="data">A 32, 1-15</cell>
-                            <cell role="data">verschiedene (Einzelbriefe)</cell>
-                            <cell role="data">15</cell>
-                            <cell role="data">1688-1718</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=3071401§"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
-                            <cell role="data">Hausarchive, Familienkorrespondenz</cell>
-                            <cell role="data">A 32, 16</cell>
-                            <cell role="data">Schreibenbuch Kaiserin Eleonora Magdalena</cell>
-                            <cell role="data">443</cell>
-                            <cell role="data">1697-1705</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=3071401"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
-                            <cell role="data">Hausarchive, Familienkorrespondenz</cell>
-                            <cell role="data">A 11, 1</cell>
-                            <cell role="data">Leopold I.</cell>
-                            <cell role="data">18</cell>
-                            <cell role="data">1676</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=2567501"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
-                            <cell role="data">Lothrinigsches Hausarchiv</cell>
-                            <cell role="data">Karton 7</cell>
-                            <cell role="data">Leopold I. von Lothringen</cell>
-                            <cell role="data">22</cell>
-                            <cell role="data">1705-1719</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?ID=2271849"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
-                            <cell role="data">Lothrinigsches Hausarchiv</cell>
-                            <cell role="data">Karton 97</cell>
-                            <cell role="data">Karl V. von Lothringen</cell>
-                            <cell role="data">20</cell>
-                            <cell role="data">1678-1690</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=2272168"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
-                            <cell role="data">Lothrinigsches Hausarchiv</cell>
-                            <cell role="data">Karton 96</cell>
-                            <cell role="data">Elisabeth Charlotte von Lothringen, geb. Orleans</cell>
-                            <cell role="data">12</cell>
-                            <cell role="data">1699-1705</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=2272164"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</cell>
-                            <cell role="data">Hausarchiv, Sammelbände</cell>
-                            <cell role="data">1_4_4</cell>
-                            <cell role="data">Karl VI.</cell>
-                            <cell role="data">4</cell>
-                            <cell role="data">1705, 1708</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=3152279"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Allgemeines Verwaltungsarchiv</cell>
-                            <cell role="data">Familienarchiv Harrach</cell>
-                            <cell role="data">Karton 206</cell>
-                            <cell role="data">Ferdinand Bonaventura von Harrach</cell>
-                            <cell role="data">2</cell>
-                            <cell role="data">1698</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=1649533"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichisches Staatsarchiv, Allgemeines Verwaltungsarchiv</cell>
-                            <cell role="data">Familienarchiv Harrach</cell>
-                            <cell role="data">Karton 321</cell>
-                            <cell role="data">Johanna Theresia von Harrach, geb. Lamberg</cell>
-                            <cell role="data">5</cell>
-                            <cell role="data">1698-1711</cell>
-                            <cell role="data"><ref target="https://www.archivinformationssystem.at/detail.aspx?id=1709965"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichische Nationalbibliothek</cell>
-                            <cell role="data">Handschriftenabteilung</cell>
-                            <cell role="data">759/27-759/31</cell>
-                            <cell role="data">Kardinal Leandro Colloredo</cell>
-                            <cell role="data">17</cell>
-                            <cell role="data">1686-1708</cell>
-                            <cell role="data"><ref target="http://data.onb.ac.at/rec/AC13836925"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichische Nationalbibliothek</cell>
-                            <cell role="data">Handschriftenabteilung</cell>
-                            <cell role="data">15-32</cell>
-                            <cell role="data">diverse</cell>
-                            <cell role="data">10</cell>
-                            <cell role="data">1683-1711</cell>
-                            <cell role="data"><ref target="http://data.onb.ac.at/rec/AC14109806"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Österreichische Nationalbibliothek</cell>
-                            <cell role="data">Handschriftenabteilung, Autographen</cell>
-                            <cell role="data">434/5</cell>
-                            <cell role="data">Maximilian II. Emanuel von Bayern, J. K. Brunner</cell>
-                            <cell role="data">2</cell>
-                            <cell role="data">1707, 1715</cell>
-                            <cell role="data"><ref target="http://data.onb.ac.at/rec/AC14101468"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</cell>
-                            <cell role="data">1 Alt 24: Töchter der mittleren und jüngeren Linie und Gemahlinnen der nicht regierenden Herzöge</cell>
-                            <cell role="data">Nr. 256</cell>
-                            <cell role="data">Anton Ulrich von Braunschweig-Wolfenbüttel</cell>
-                            <cell role="data">26</cell>
-                            <cell role="data">1707-1713</cell>
-                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547020"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</cell>
-                            <cell role="data">1 Alt 24: Töchter der mittleren und jüngeren Linie und Gemahlinnen der nicht regierenden Herzöge</cell>
-                            <cell role="data">Nr. 256</cell>
-                            <cell role="data">Elisabeth Christine von Braunschweig-Wolfenbüttel</cell>
-                            <cell role="data">1</cell>
-                            <cell role="data">1707</cell>
-                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547020"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</cell>
-                            <cell role="data">1 Alt 24: Töchter der mittleren und jüngeren Linie und Gemahlinnen der nicht regierenden Herzöge</cell>
-                            <cell role="data">Nr. 272</cell>
-                            <cell role="data">Ludwig Rudolph von Braunschweig-Wolfenbüttel</cell>
-                            <cell role="data">24</cell>
-                            <cell role="data">1707-1715</cell>
-                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547019"/></cell>
-                        </row>
-                        <row>
-                            <cell role="label">Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</cell>
-                            <cell role="data">1 Alt 24: Töchter der mittleren und jüngeren Linie und Gemahlinnen der nicht regierenden Herzöge</cell>
-                            <cell role="data">Nr. 275</cell>
-                            <cell role="data">Christine Louise von Braunschweig-Wolfenbüttel, geb. Oettingen</cell>
-                            <cell role="data">36</cell>
-                            <cell role="data">1707-1718</cell>
-                            <cell role="data"><ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547032"/></cell>
-                        </row>
-                    </table>
+                    <listBibl type="correspondence">
+                <bibl>
+                    <msIdentifier>
+                        <repository>Koninklijke Verzamelingen Den Haag</repository>
+                        <collection>16a</collection>
+                        <idno>b 32-b 35; b 36_001; b 36_002</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Maria von Oranien, Königin von England und Schottland</persName>
+                    <extent>6</extent>
+                    <date from="1685" to="1690">1685-1690</date>
+                    <ref target="https://emlo.bodleian.ox.ac.uk/w/953508">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Niedersächsisches Landesarchiv, Staatsarchiv Hannover</repository>
+                        <collection>Cal. Br. 11</collection>
+                        <idno>Nr. 1312; Nr. 1275</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Georg Wilhelm von Braunschweig-Calenberg</persName>
+                    <extent>2</extent>
+                    <date from="1699" to="1711">1699, 1711</date>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619">zum Bestand</ref>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Archivio di Stato di Firenze</repository>
+                        <collection>Miscellanea Medicea</collection>
+                        <idno>123/9; 594/22</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Anna Maria de Medici, Kurfürstin von Pfalz-Neuburg</persName>
+                    <extent>11</extent>
+                    <date from="1707" to="1714">1707, 1714</date>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Niedersächsisches Landesarchiv, Staatsarchiv Hannover</repository>
+                        <collection>Cal. Br. 11</collection>
+                        <idno>Nr. 1312, Nr. 1275</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Georg Wilhelm von Braunschweig-Calenberg</persName>
+                    <extent>2</extent>
+                    <date from="1699" to="1711">1699, 1711</date>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619">zum Bestand</ref>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Niedersächsisches Landesarchiv, Staatsarchiv Hannover</repository>
+                        <collection>Dep. 84 A</collection>
+                        <idno>Nr. 154</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Sophie von Braunschweig-Calenberg, geb. Pfalz-Simmern</persName>
+                    <extent>unklar</extent>
+                    <date from="1705" to="1709">1705-1709</date>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v2060197">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Landesarchiv Baden-Württemberg, Generallandesarchiv Karlsruhe</repository>
+                        <collection>Haus- und Staatsarchiv, Personalia</collection>
+                    </msIdentifier>
+                    <persName type="correspondent">Franziska Augusta von Baden-Baden, geb. Sachsen-Lauenburg</persName>
+                    <extent>Streuüberlieferung, mindestens 4</extent>
+                    <date from="1703" to="1711">1703-1711</date>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Landesarchiv Baden-Württemberg, Generallandesarchiv Karlsruhe</repository>
+                        <collection>Haus- und Staatsarchiv, Personalia</collection>
+                    </msIdentifier>
+                    <persName type="correspondent">Ludwig Wilhelm von Baden-Baden</persName>
+                    <extent>Streuüberlieferung, mindestens 4</extent>
+                    <date from="1698" to="1707">1698-1707</date>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Archivio di Stato di Mantova</repository>
+                        <collection>Archivio Alderano Cybo</collection>
+                        <idno>Vol. 38 - 41</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Kardinal Alderano Cybo</persName>
+                    <extent>36</extent>
+                    <date from="1680" to="1700">1680-1700</date>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Nationales Historisches Archiv Minsk</repository>
+                        <collection>695 (Sobieski-Archiv)</collection>
+                        <idno>695_1_165, 695_1_189, 695_1_209</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Hedwig Elisabeth Sobieski, geb. Pfalz-Neuburg</persName>
+                    <extent>54</extent>
+                    <date from="1690" to="1719">1690-1719</date>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Nationales Historisches Archiv Minsk</repository>
+                        <collection>695 (Sobieski-Archiv)</collection>
+                        <idno>695_1_189</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Jakob Sobieski</persName>
+                    <extent>78</extent>
+                    <date from="1690" to="1703">1690-1703</date>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Bayerisches Hauptstaatsarchiv München</repository>
+                        <collection>Kasten_blau</collection>
+                        <idno>50_3, Fasz. 4</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Elisabeth Amalie von Pfalz-Neuburg, geb. Hessen-Darmstadt</persName>
+                    <extent>2</extent>
+                    <date from="1700" to="1701">1700-1701</date>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Adelsarchive Nordrhein-Westfalen Münster</repository>
+                        <collection>Schloss Schönstein, Akten</collection>
+                        <idno>9778</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Anna Maria von Winkelhausen, geb. Hompesch</persName>
+                    <extent>6</extent>
+                    <date from="1709" to="1716">1709-1716</date>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v2060197">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Archivio di Stato di Parma</repository>
+                        <collection>Casa e Corte Borbonica</collection>
+                        <idno>Ser. VI, busta 16, fasz. 7</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Dorothea Sophie von Parma, geb. Pfalz-Neuburg</persName>
+                    <extent>12</extent>
+                    <date from="1690" to="1714">1690-1714</date>
+                    <ref target="https://archiviodistatoparma.cultura.gov.it/wp-content/uploads/2025/06/18_Casa-Corte-borboniche_R_Archivio_Stato_Parma.pdf">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Wien Bibliothek</repository>
+                        <collection>Handschriften Aut F - Autograph(en) Folio</collection>
+                        <idno>248635 - 248640</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">verschiedene</persName>
+                    <extent>6</extent>
+                    <date from="1688" to="1717">1688-1717</date>
+                    <ref target="https://www.digital.wienbibliothek.at/urn/urn:nbn:at:AT-WBR-453917">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</repository>
+                        <collection>Hausarchive, Familienkorrespondenz</collection>
+                        <idno>A 32, 1-15</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">verschiedene (Einzelbriefe)</persName>
+                    <extent>15</extent>
+                    <date from="1688" to="1718">1688-1718</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?id=3071401§">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</repository>
+                        <collection>Hausarchive, Familienkorrespondenz</collection>
+                        <idno>A 32, 16</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Schreibenbuch Kaiserin Eleonora Magdalena</persName>
+                    <extent>443</extent>
+                    <date from="1697" to="1705">1697-1705</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?id=3071401">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</repository>
+                        <collection>Hausarchive, Familienkorrespondenz</collection>
+                        <idno>A 11, 1</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Leopold I.</persName>
+                    <extent>18</extent>
+                    <date when="1676">1676</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?id=2567501">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</repository>
+                        <collection>Lothrinigsches Hausarchiv</collection>
+                        <idno>Karton 7</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Leopold I. von Lothringen</persName>
+                    <extent>22</extent>
+                    <date from="1705" to="1719">1705-1719</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?ID=2271849">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</repository>
+                        <collection>Lothrinigsches Hausarchiv</collection>
+                        <idno>Karton 97</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Karl V. von Lothringen</persName>
+                    <extent>20</extent>
+                    <date from="1678" to="1690">1678-1690</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?id=2272168">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</repository>
+                        <collection>Lothrinigsches Hausarchiv</collection>
+                        <idno>Karton 96</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Elisabeth Charlotte von Lothringen, geb. Orleans</persName>
+                    <extent>12</extent>
+                    <date from="1699" to="1705">1699-1705</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?id=2272164">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv</repository>
+                        <collection>Hausarchiv, Sammelbände</collection>
+                        <idno>1_4_4</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Karl VI.</persName>
+                    <extent>4</extent>
+                    <date from="1705" to="1708">1705, 1708</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?id=3152279">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Allgemeines Verwaltungsarchiv</repository>
+                        <collection>Familienarchiv Harrach</collection>
+                        <idno>Karton 206</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Ferdinand Bonaventura von Harrach</persName>
+                    <extent>2</extent>
+                    <date when="1698">1698</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?id=1649533">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv, Allgemeines Verwaltungsarchiv</repository>
+                        <collection>Familienarchiv Harrach</collection>
+                        <idno>Karton 321</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Johanna Theresia von Harrach, geb. Lamberg</persName>
+                    <extent>5</extent>
+                    <date from="1698" to="1711">1698-1711</date>
+                    <ref target="https://www.archivinformationssystem.at/detail.aspx?id=1709965">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <collection>Handschriftenabteilung</collection>
+                        <idno>759/27-759/31</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Kardinal Leandro Colloredo</persName>
+                    <extent>17</extent>
+                    <date from="1686" to="1708">1686-1708</date>
+                    <ref target="http://data.onb.ac.at/rec/AC13836925">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <collection>Handschriftenabteilung</collection>
+                        <idno>15-32</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">diverse</persName>
+                    <extent>10</extent>
+                    <date from="1683" to="1711">1683-1711</date>
+                    <ref target="http://data.onb.ac.at/rec/AC14109806">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <collection>Handschriftenabteilung, Autographen</collection>
+                        <idno>434/5</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Maximilian II. Emanuel von Bayern, J. K. Brunner</persName>
+                    <extent>2</extent>
+                    <date from="1707" to="1715">1707, 1715</date>
+                    <ref target="http://data.onb.ac.at/rec/AC14101468">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</repository>
+                        <collection>1 Alt 24: Töchter der mittleren und jüngeren Linie und Gemahlinnen der nicht regierenden Herzöge</collection>
+                        <idno>Nr. 256</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Anton Ulrich von Braunschweig-Wolfenbüttel</persName>
+                    <extent>26</extent>
+                    <date from="1707" to="1713">1707-1713</date>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547020">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</repository>
+                        <collection>1 Alt 24: Töchter der mittleren und jüngeren Linie und Gemahlinnen der nicht regierenden Herzöge</collection>
+                        <idno>Nr. 256</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Elisabeth Christine von Braunschweig-Wolfenbüttel</persName>
+                    <extent>1</extent>
+                    <date when="1707">1707</date>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547020">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</repository>
+                        <collection>1 Alt 24: Töchter der mittleren und jüngeren Linie und Gemahlinnen der nicht regierenden Herzöge</collection>
+                        <idno>Nr. 272</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Ludwig Rudolph von Braunschweig-Wolfenbüttel</persName>
+                    <extent>24</extent>
+                    <date from="1707" to="1715">1707-1715</date>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547019">zum Bestand</ref>
+                </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>Niedersächsisches Landesarchiv, Staatsarchiv Wolfenbüttel</repository>
+                        <collection>1 Alt 24: Töchter der mittleren und jüngeren Linie und Gemahlinnen der nicht regierenden Herzöge</collection>
+                        <idno>Nr. 275</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Christine Louise von Braunschweig-Wolfenbüttel, geb. Oettingen</persName>
+                    <extent>36</extent>
+                    <date from="1707" to="1718">1707-1718</date>
+                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547032">zum Bestand</ref>
+                </bibl>
+                </listBibl>
                 </div>
             </div>
         </body>
