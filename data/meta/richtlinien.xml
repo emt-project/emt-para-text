@@ -4,7 +4,7 @@
             <titleStmt>
                 <title type="main" xml:lang="de">Editionsrichtlinien für die eigenhändige
                     Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg
-                    (1655-1720)</title>
+                    (1655–1720)</title>
                 <title type="main" xml:lang="en">Editing guidelines for the handwritten correspondence of Empress
                     Eleonora Magdalena of Pfalz-Neuburg (1655–1720)</title>
                 <title type="sub">Familiensache. Dynastische Handlungsspielräume in der
@@ -39,75 +39,104 @@
         <body>
             <div xml:lang="de">
                 <p><hi style="font-size:12pt">Die folgenden Richtlinien stellen einen Kompromiss dar
-                        zwischen den wissenschaftlichen Anforderungen an eine Edition, dem Ziel, die
-                        Briefe der Kaiserin für eine möglichst große Personengruppe lesbar und
+                        zwischen den wissenschaftlichen Anforderungen an eine Edition, dem Ziel, 
+                        die Edition für ein möglichst breites Spektrum von NutzerInnen lesbar und
                         nutzbar zu machen, und der Wiedergabe der Spezifika der Schrift und des
                         eigenhändigen Schreibens der Kaiserin.</hi>
                 </p>
                 <p><hi style="font-size:12pt" xml:space="preserve">Die </hi><hi rend="underline"
                         style="font-size:12pt">Datierung</hi>
                     <hi style="font-size:12pt">der Briefe folgt stets der Vorlage – die Kaiserin wie
-                        ihre beiden Korrespondenten Philipp Wilhelm bzw. Johann Wilhelm von der
-                        Pfalz nutzten ausschließlich den Gregorianischen Kalender. Sollte im
+                        ihre beiden Korrespondenten Philipp Wilhelm bzw. Johann Wilhelm von Pfalz-Neuburg
+                        nutzten ausschließlich den Gregorianischen Kalender. Sollte im
                         Original die Datierung unleserlich, unvollständig oder offensichtlich falsch
-                        sein, so wird dies im Text-Mark-Up ausgewiesen. Datumsangaben, die durch das
-                        Team der Editor*innen erschlossen wurden, sind als solche ausgewiesen.
+                        sein, so wird dies im Text-Mark-Up ausgewiesen. Datumsangaben der Briefe, 
+                        die durch das Team der Editorinnen erschlossen wurden, sind als solche in den Überschriften ausgewiesen,
+                        z.B.: „o.D. (Mai 1692)".
                     </hi></p>
                 <p><hi style="font-size:12pt" xml:space="preserve">Die Textwiedergabe erfolgt </hi><hi
                         rend="underline" style="font-size:12pt">zeilengetreu</hi><hi
                         style="font-size:12pt">.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Satzzeichen und </hi><hi
+                <p><hi rend="underline" style="font-size:12pt" xml:space="preserve">Satzzeichen und </hi><hi
                         rend="underline" style="font-size:12pt"
-                    >Interpunktion</hi><hi style="font-size:12pt" xml:space="preserve"> wurden von der Schreiberin nur in Ausnahmefällen genutzt. Zugunsten einer besseren Lesbarkeit wird in der Transkription eine generelle Modernisierung der Zeichensetzung vorgenommen. Die (wenigen) Satzzeichen von der Hand der Schreiberin sind davon in der Wiedergabe nicht unterschieden, da die bildliche Wiedergabe des Textes diese erkennbar macht.</hi></p>
+                    >Interpunktion</hi><hi style="font-size:12pt" xml:space="preserve"> wurden von der Kaiserin nur in Ausnahmefällen genutzt. Zugunsten einer besseren Lesbarkeit wird in der Transkription eine generelle Modernisierung der Zeichensetzung vorgenommen. Die (wenigen) Satzzeichen von der Hand der Schreiberin sind davon in der Wiedergabe nicht unterschieden, da die bildliche Wiedergabe des Textes diese erkennbar macht.</hi></p>
                 <p><hi rend="underline" style="font-size:12pt">Diakritische
                     Zeichen</hi><hi style="font-size:12pt" xml:space="preserve"> werden wiedergegeben, sofern sie nicht (wie z. B. der u-Bogen über „u” und „w” oder der Doppelpunkt über „y”) als reine Lesehilfen dienen, fehlende Punkte über „i” und „j” werden stillschweigend ergänzt.</hi></p>
                 <p><hi rend="underline" style="font-size:12pt">Schriftgeschichtliche
-                    Spezifika</hi><hi style="font-size:12pt" xml:space="preserve"> und Eigenarten der Handschrift (z. B. die Wiedergabe fremdsprachiger Textstellen und einzelner Worte in lateinischen Buchstaben) werden nicht eigens ausgewiesen oder kommentiert, da in der online-Version Bild und Transkription parallel präsentiert werden.</hi></p>
+                    Spezifika</hi><hi style="font-size:12pt" xml:space="preserve"> und Eigenarten der Handschrift (z. B. die Wiedergabe fremdsprachiger Textstellen und einzelner Worte in lateinischen Buchstaben)
+                        werden nicht eigens ausgewiesen oder kommentiert, da in der vorliegenden digitalen Edition Bild und Transkription parallel dargestellt werden.</hi></p>
                 <p><hi style="font-size:12pt" xml:space="preserve">Die in etlichen Briefen vorkommenden </hi><hi
                         rend="underline" style="font-size:12pt">nachträglichen
                     Hervorhebungen</hi><hi style="font-size:12pt" xml:space="preserve"> (durch Klammern oder Unterstreichung) wurden in der Transkription nicht ausgewiesen, weil unklar ist, wer diese Eingriffe vorgenommen hat – wahrscheinlich ist, dass sie jeweils aus der Kanzlei des Adressaten der Briefe der Kaiserin stammen. Auch sie sind in der bildlichen Wiedergabe der Briefe zu erkennen.</hi></p>
                 <p><hi style="font-size:12pt" xml:space="preserve">Die Transkription folgt grundsätzlich der </hi><hi
                         rend="underline" style="font-size:12pt">Schreibung der
                     Vorlage</hi><hi style="font-size:12pt" xml:space="preserve">. </hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Der </hi><hi rend="underline"
-                        style="font-size:12pt"
-                    >Buchstabenbestand</hi><hi style="font-size:12pt" xml:space="preserve"> der Texte wird grundsätzlich gewahrt: i und j sowie u, v und w werden wiedergegeben, wie sie im Text erscheinen. Ausnahme ist hier nur das v mit übergesetztem Doppelpunkt, das entsprechend des Lautwertes als ü wiedergegeben wird. uu wird ggf. als w wiedergegeben. Charakteristisch für die Briefe ist, dass die Unterscheidung zwischen „a“ und „o“ teilweise nicht eindeutig möglich ist. Hier wurde im Zweifelsfall nach modernem Gebrauch entschieden. Dopplungen von Konsonanten (mm, nn, ff, ss, sß etc.) werden beibehalten, wobei allerdings solche in der Handschrift der Kaiserin oft nicht klar zu identifizieren sind. Das y wird am Wortende als Ligatur für ij aufgelöst, sonst beibehalten.</hi>
+                <p><hi style="font-size:12pt" xml:space="preserve">Der</hi> <hi rend="underline" style="font-size:12pt">Buchstabenbestand</hi><hi style="font-size:12pt" xml:space="preserve">
+                        der Texte wird grundsätzlich gewahrt: „i“ und „j“ sowie „u“, „v“ und „w“ werden wiedergegeben, 
+                        wie sie im Text erscheinen. Ausnahme ist hier nur das „v“ mit übergesetztem Doppelpunkt, 
+                        das entsprechend des Lautwertes als „ü“ wiedergegeben wird. „uu“ wird ggf. als „w“ wiedergegeben. 
+                        Charakteristisch für die Briefe ist, dass die Unterscheidung zwischen „a“ und „o“ teilweise nicht eindeutig möglich ist. 
+                        Hier wurde im Zweifelsfall nach modernem Gebrauch entschieden. Dopplungen von Konsonanten („mm“, „nn“, „ff“, „ss“, „sß“ etc.)
+                        werden beibehalten, wobei allerdings solche in der Handschrift der Kaiserin oft nicht klar zu identifizieren sind. 
+                        Das „y“ wird am Wortende als Ligatur für „ij“ aufgelöst, sonst beibehalten.</hi>
                 </p>
                 <p><hi rend="underline" style="font-size:12pt"
                     >Eigennamen</hi><hi style="font-size:12pt" xml:space="preserve"> werden entsprechend der Vorlage wiedergegeben.</hi></p>
                 <p><hi style="font-size:12pt" xml:space="preserve">Hinsichtlich der </hi><hi
                         rend="underline" style="font-size:12pt">Groß- und
-                    Kleinschreibung</hi><hi style="font-size:12pt" xml:space="preserve"> ist keine durchgehende Regelmäßigkeit bei der Schreiberin erkennbar; auch die Unterscheidung der Groß- bzw. Kleinbuchstaben ist nur mit großen Unsicherheiten möglich. Deshalb wurde bei der Transkription konsequent Kleinschreibung genutzt mit Ausnahme von Eigennamen von Personen, Orten und Institutionen (z. B. Reich), Titeln und Amtsbezeichnungen, die für konkrete Personen stehen (z. B. Deutschmeister/ Deutsch Meister, Botschafter, Pater etc.), und Satzanfängen.</hi></p>
+                    Kleinschreibung</hi><hi style="font-size:12pt" xml:space="preserve"> ist keine durchgehende Regelmäßigkeit bei der Schreiberin erkennbar;
+                        auch die Unterscheidung der Groß- bzw. Kleinbuchstaben ist nur mit großen Unsicherheiten möglich. 
+                        Deshalb wurde bei der Transkription konsequent Kleinschreibung genutzt mit Ausnahme von Eigennamen von Personen, 
+                        Orten und Institutionen (z. B. Reich), Titeln und Amtsbezeichnungen, die für konkrete Personen stehen 
+                        z. B. Deutschmeister/ Deutsch Meister, Botschafter, Pater etc.), und Satzanfängen.</hi></p>
                 <p><hi style="font-size:12pt" xml:space="preserve">In der </hi><hi rend="underline"
                         style="font-size:12pt">Getrennt- und
                     Zusammenschreibung</hi><hi style="font-size:12pt" xml:space="preserve"> folgt die Transkription der Vorlage.</hi></p>
                 <p><hi style="font-size:12pt" xml:space="preserve">Die Kaiserin nutzte regelmäßig stabile </hi>
                     <hi rend="underline" style="font-size:12pt"
-                    >Abkürzungen</hi><hi style="font-size:12pt" xml:space="preserve"> wie das Kürzel in der Anrede ihres Bruders (siehe Abkürzungsliste), das immer stillschweigend mit “dero Liebden“ aufgelöst wird. Dazu gehören etwa auch i. m. = ihre Mayestät bzw. ihr Mt. = ihre Mayestät; ew. D. = ewer Durchlaucht als Anrede des Vaters oder der Mutter, ebenso ihr D. = ihr(e) Durchlaucht. Derartige Abkürzungen wurden aufgelöst und sind in der Abkürzungsliste vermerkt.</hi>
+                    >Abkürzungen</hi><hi style="font-size:12pt" xml:space="preserve"> wie das Kürzel in der Anrede ihres Bruders (siehe Abkürzungsliste),
+                        das immer stillschweigend mit „dero Liebden“ aufgelöst wird. Dazu gehören etwa auch „i. m.“ = ihre Mayestät bzw. „ihr Mt.“ = ihre Mayestät;
+                        „ew. D.“ = ewer Durchlaucht als Anrede des Vaters oder der Mutter, ebenso „ihr D.“ = ihr(e) Durchlaucht. 
+                        Derartige Abkürzungen wurden aufgelöst und sind in der Abkürzungsliste vermerkt.</hi>
                 </p>
                 <p><hi style="font-size:12pt">Daneben erscheinen Abkürzungen, bei denen ein
-                        Buchstabe verschiedene Worte signalisieren kann, z. B. g = gnädig und g =
-                        grav, h = herr und h = heiligkeit, heilig. Über das hinter dem Buchstaben
-                        stehende Wort kann nur im jeweiligen Textzusammenhang entschieden werden.
-                        Diese Abkürzungen wurden mit Tags aufgelöst.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Stillschweigend aufgelöst werden außerdem sämtliche mit waagerechten Strichen oder einem der Tilde ähnlichen Zeichen angezeigten </hi><hi
-                        rend="underline" style="font-size:12pt"
-                    >Kurzformen</hi><hi style="font-size:12pt" xml:space="preserve">, Abwärtsschleifen statt der Endungen „-n“ und „-en” sowie Verdopplungsstriche über den Nasalen „m” und „n”. </hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Komplizierter in der Umsetzung stellt sich der Umstand dar, dass in vielen Schreiben nicht nur solche gängigen Abkürzungen erscheinen. Vielmehr gibt es in wachsender Zahl </hi>
-                    <hi rend="underline" style="font-size:12pt"
-                    >Verkürzungen</hi><hi style="font-size:12pt" xml:space="preserve"> durch bewusstes oder unbewusstes Weglassen von Buchstaben im Wort: beispielsweise schben = schreiben, by = bey, ds = das; das i erscheint sehr häufig nur durch den Punkt angedeutet. Diese Verkürzungen nehmen im Laufe der Zeit zu und sind in einigen Briefen sehr ausgeprägt; generell ist die Handschrift in den späteren Jahren oft sehr nachlässig bei der Wiedergabe einzelner Buchstaben. Solche Verkürzungen wurden aufgelöst und durch Tags als Einfügungen ausgewiesen. In einigen häufig auftretenden Fällen fiel allerdings die Entscheidung zur stillschweigenden Auflösung, um den Apparat zu entlasten. Diese Fälle sind in der Abkürzungsliste ausgewiesen.</hi>
+                        Buchstabe verschiedene Worte signalisieren kann, z. B. „g“ = gnädig und „g“ =
+                        grav, „h“ = herr und „h“ = heiligkeit, heilig. Über das hinter dem Buchstaben
+                        stehende Wort konnte nur im jeweiligen Textzusammenhang entschieden werden und die 
+                        Abkürzungen wurde dementsprechend aufgelöst.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Stillschweigend aufgelöst werden außerdem sämtliche mit waagerechten Strichen oder einem der
+                        Tilde ähnlichen Zeichen angezeigten </hi><hi rend="underline" style="font-size:12pt">Kurzformen</hi>
+                    <hi style="font-size:12pt" xml:space="preserve">, Abwärtsschleifen statt der Endungen „-n“ und „-en” sowie Verdopplungsstriche über den
+                        Nasalen „m” und „n”. </hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Komplizierter in der Umsetzung stellt sich der Umstand dar,
+                        dass in vielen Schreiben nicht nur solche gängigen Abkürzungen erscheinen. Vielmehr gibt es in wachsender Zahl </hi>
+                    <hi rend="underline" style="font-size:12pt">Verkürzungen</hi> <hi style="font-size:12pt" xml:space="preserve">durch bewusstes oder unbewusstes
+                        Weglassen von Buchstaben im Wort: beispielsweise „schben“ = schreiben, „by“ = bey, „ds“ = das; das „i” erscheint sehr häufig nur durch
+                        den Punkt angedeutet. Diese Verkürzungen nehmen im Laufe der Zeit zu und sind in einigen Briefen sehr ausgeprägt;
+                        generell ist die Handschrift in den späteren Jahren oft sehr nachlässig bei der Wiedergabe einzelner Buchstaben.
+                        Solche Verkürzungen wurden aufgelöst und als Einfügungen ausgewiesen. 
+                        In einigen häufig auftretenden Fällen fiel allerdings die Entscheidung zur stillschweigenden Auflösung,
+                        um den Apparat zu entlasten. Diese Fälle sind in der Abkürzungsliste ausgewiesen.</hi>
                 </p>
                 <p><hi style="font-size:12pt" xml:space="preserve">Die Teile der Korrespondenz, die in </hi><hi
                         rend="underline" style="font-size:12pt"
-                    >Geheimschrift</hi><hi style="font-size:12pt" xml:space="preserve"> abgefasst wurden, wurden dechiffriert. Ein im Zuge der Arbeit ermittelter Schlüssel der Chiffrierung wird als ergänzendes Material publiziert. Dabei sind offensichtliche Chiffrierungsfehler (Nutzung falscher Zeichen oder unklare Schreibweise) stillschweigend korrigiert worden. Zeitgenössische Dechiffrierungen, die einigen der Briefe beiliegen bzw. eingefügt wurden, sind als solche kenntlich gemacht.</hi></p>
+                    >Geheimschrift</hi><hi style="font-size:12pt" xml:space="preserve"> abgefasst wurden, wurden dechiffriert. 
+                        Ein im Zuge der Arbeit ermittelter <ref target="https://emt-project.github.io/emt-static/chiffre.html">Schlüssel</ref> der Chiffrierung wurde auf der Webseite als ergänzendes Material veröffentlicht. .
+                        Dabei sind offensichtliche Chiffrierungsfehler (Nutzung falscher Zeichen oder unklare Schreibweise)
+                        stillschweigend korrigiert worden. Zeitgenössische Dechiffrierungen, die einigen der Briefe beiliegen
+                        bzw. eingefügt wurden, sind als solche kenntlich gemacht.</hi></p>
                 <p><hi rend="underline" style="font-size:12pt"
-                    >Korruptelen</hi><hi style="font-size:12pt" xml:space="preserve"> und ungewöhnliche Satzkonstruktionen werden nicht durch [!] angemerkt, weil sie die Texte von der Hand der Kaiserin charakterisieren – Wortwiederholungen oder Wechsel in der Satzkonstruktion während der Niederschrift kommen so häufig vor, dass eine gesonderte Hervorhebung den Text unübersichtlich machen würde. Lediglich sinnentstellende Korruptelen wurden ausgewiesen und im Tag korrigiert bzw. ergänzt.</hi></p>
+                    >Korruptelen</hi><hi style="font-size:12pt" xml:space="preserve"> und ungewöhnliche Satzkonstruktionen 
+                        werden nicht durch [!] angemerkt, weil sie die Texte von der Hand der Kaiserin charakterisieren – 
+                        Wortwiederholungen oder Wechsel in der Satzkonstruktion während der Niederschrift kommen so häufig vor,
+                        dass eine gesonderte Hervorhebung den Text unübersichtlich machen würde. Lediglich sinnentstellende 
+                        Korruptelen wurden ausgewiesen und korrigiert bzw. ergänzt.</hi></p>
                 <p><hi rend="underline" style="font-size:12pt">Ausgewiesen werden in der
                         Transkription</hi><hi style="font-size:12pt" xml:space="preserve"> außerdem:</hi></p>
                 <list rend="bulleted">
                     <item><hi style="font-size:12pt">Unsichere Lesarten und unsichere
                             Abkürzungen.</hi></item>
-                    <item><hi style="font-size:12pt">Zusätze der Bearbeiterinnen: Hierbei handelt es
+                    <item><hi style="font-size:12pt">Ergänzungen der Editorinnen: Hierbei handelt es
                             sich um Buchstaben, die die Kaiserin nicht geschrieben hat bzw. die
                             nicht erkennbar sind, die aber für das Verständnis des Wortes bedeutsam
                             sind (siehe oben), sowie um Worte, die fehlen, die aber für das
