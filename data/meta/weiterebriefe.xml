@@ -51,18 +51,6 @@
                 </bibl>
                 <bibl>
                     <msIdentifier>
-                        <repository>Niedersächsisches Landesarchiv, Staatsarchiv Hannover</repository>
-                        <collection>Cal. Br. 11</collection>
-                        <idno>Nr. 1312; Nr. 1275</idno>
-                    </msIdentifier>
-                    <persName type="correspondent">Georg Wilhelm von Braunschweig-Calenberg</persName>
-                    <extent>2</extent>
-                    <date from="1699" to="1711">1699, 1711</date>
-                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3023619">zum Bestand</ref>
-                    <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v3024197">zum Bestand</ref>
-                </bibl>
-                <bibl>
-                    <msIdentifier>
                         <repository>Archivio di Stato di Firenze</repository>
                         <collection>Miscellanea Medicea</collection>
                         <idno>123/9; 594/22</idno>
