@@ -351,6 +351,17 @@
                     <date from="1707" to="1718">1707-1718</date>
                     <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5547032">zum Bestand</ref>
                 </bibl>
+                <bibl>
+                    <msIdentifier>
+                        <repository>British Library</repository>
+                        <collection>Blenheim Papers/D: Correspondence and Papers of the 3rd Earl of Sunderland</collection>
+                        <idno>Add MS 61491, f. 7r-12v</idno>
+                    </msIdentifier>
+                    <persName type="correspondent">Anne Stuart, Königin von England, Schottland und Irland (ab 1707 von Großbritannien)</persName>
+                    <extent>3</extent>
+                    <date from="1707" to="1708">1707-1708</date>
+                    <ref target="https://searcharchives.bl.uk/catalog/040-001950462">zum Bestand</ref>
+                </bibl>
                 </listBibl>
                 </div>
             </div>
